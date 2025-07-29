@@ -19,18 +19,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🎯 Áreas de Foco
-
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-2025-blueviolet?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Ativo-success?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Visão Computacional](https://img.shields.io/badge/Visão%20Computacional-Em%20Progresso-orange?style=for-the-badge&logo=opencv&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Java%20%7C%20Python-informational?style=for-the-badge&logo=java&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=radical&hide_border=true" height="150"/>
+</div>
 
 ---
 
