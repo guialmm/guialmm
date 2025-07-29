@@ -8,7 +8,7 @@
 
 ## 📚 Sobre Mim
 
-Sou **graduando em Engenharia de Software no INATEL**, bolsista de Iniciação Científica no CS&I Lab, com foco em **Inteligência Artificial e Visão Computacional** :contentReference[oaicite:0]{index=0}. Atualmente estagiário na Code n' App, contribuindo em projetos inovadores na área de IA e ML.
+Sou **graduando em Engenharia de Software no INATEL**, bolsista de Iniciação Científica no CS&I Lab, com foco em **Inteligência Artificial e Visão Computacional** :contentReference[oaicite:0]{index=0}.
 
 ---
 
