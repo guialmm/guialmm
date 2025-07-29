@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Guilherme Almeida!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=3FF7FF&center=false&vCenter=true&width=435&lines=Graduando+em+Engenharia+de+Software;Inteligência+Artificial;Visão+Computacional;Compartilhando+conhecimento)](https://git.io/typing-svg)
+![Snake animation](https://github.com/guialmm/guialmm/blob/output/github-contribution-grid-snake.svg)
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=guialmm&color=3FF7FF)
 
