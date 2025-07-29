@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou o Guilherme Almeida!
 
+## 🐍 Contribuições
+
 ![Snake animation](https://github.com/guialmm/guialmm/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=guialmm&color=3FF7FF)
