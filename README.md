@@ -25,8 +25,12 @@
 
 ---
 
-## 📈 Atividade no GitHub
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guialmm&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🎯 Áreas de Foco
+
+![IA](https://img.shields.io/badge/Inteligência%20Artificial-2025-blueviolet?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Ativo-success?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Visão Computacional](https://img.shields.io/badge/Visão%20Computacional-Em%20Progresso-orange?style=for-the-badge&logo=opencv&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Java%20%7C%20Python-informational?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
