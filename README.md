@@ -9,9 +9,9 @@
 
 ## 🚀 Sobre Mim
 
-🎓 Estudante de **Engenharia de Computação no INATEL**  
-💻 Atuo em projetos de **Inteligência Artificial, Visão Computacional e Desenvolvimento Fullstack**  
-⚡ Interesse especial em **Python, Java e Sistemas Embarcados**  
+🎓 Estudante de **Engenharia de Software no INATEL**  
+💻 Atuo em projetos de **Inteligência Artificial, Visão Computacional e Desenvolvimento Backend**  
+⚡ Interesse especial em **Python, Java e IA**  
 🌱 Sempre em busca de **novas tecnologias** para expandir minhas habilidades  
 📈 Atualmente desenvolvendo projetos que unem **IA e Machine Learning**  
 
