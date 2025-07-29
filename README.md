@@ -20,15 +20,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=guialmm&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=1&column=4" height="150"/>
 </div>
-
----
-
-## 🏆 Conquistas no GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=guialmm&theme=radical&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
