@@ -8,7 +8,7 @@
 
 ## 📚 Sobre Mim
 
-Sou **graduando em Engenharia de Software no INATEL**, bolsista de Iniciação Científica no CS&I Lab, com foco em **Inteligência Artificial e Visão Computacional** :contentReference[oaicite:0]{index=0}.
+Sou **graduando em Engenharia de Software no INATEL**, bolsista de Iniciação Científica no CS&I Lab, com foco em **Inteligência Artificial e Visão Computacional**.
 
 ---
 
@@ -16,7 +16,7 @@ Sou **graduando em Engenharia de Software no INATEL**, bolsista de Iniciação C
 
 - Participação no **CS&I Lab do INATEL**, atuando em projetos de IA e visão computacional  
 - Projetos usando **YoloV8 com Roboflow** em Visão Computacional  
-- Desenvolvimento de sistema de **reconhecimento facial com Python, MongoDB e MQTT**
+- Desenvolvimento de sistema de **reconhecimento facial com Python**
 
 ---
 
@@ -27,7 +27,6 @@ Sou **graduando em Engenharia de Software no INATEL**, bolsista de Iniciação C
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
