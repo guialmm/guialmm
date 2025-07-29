@@ -21,10 +21,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guialmm&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=radical&hide_border=true)
 
 </div>
+
+---
+
+## 🏆 Conquistas no GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=guialmm&theme=radical&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
