@@ -30,11 +30,14 @@
 
 ## 💡 Projetos em Destaque
 
-| Projeto | Descrição |
-|---------|-----------|
-| [Virtual Calculator](https://github.com/guialmm/VirtualCalculator) | Calculadora touchless com visão computacional (Python + OpenCV + Mediapipe) |
-| Rastreio Facial | Sistema de rastreio facial utilizando 68landmarks |
-| Eye Tracking System | Sistema de rastreamento ocular com IA (Python + Dlib + PyTorch) |
+- 🚀 **[Virtual Calculator](https://github.com/guialmm/VirtualCalculator)**  
+  Calculadora touchless com visão computacional (Python + OpenCV + Mediapipe)
+
+- 🤖 **[Rastreio Facial](https://github.com/guialmm/FacialLandmark)**  
+  Sistema de rastreio facial utilizando 68 landmarks
+
+- 👁 **Eye Tracking System**  
+  Sistema de rastreamento ocular com IA (Python + Dlib + PyTorch)
 
 ---
 
