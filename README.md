@@ -24,8 +24,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guialmm&theme=radical&no-frame=true&row=1&column=6" height="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=guialmm&theme=radical&no-frame=true&no-bg=true&row=1&column=6" height="120"/>
 </p>
+
 
 ---
 
