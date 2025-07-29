@@ -34,10 +34,15 @@ Sou **graduando em Engenharia de Software no INATEL**, bolsista de Iniciação C
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guialmm&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guialmm&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
+
 
 ---
 
