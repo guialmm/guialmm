@@ -33,8 +33,7 @@
 | Projeto | Descrição |
 |---------|-----------|
 | [Virtual Calculator](https://github.com/guialmm/VirtualCalculator) | Calculadora touchless com visão computacional (Python + OpenCV + Mediapipe) |
-| Reconhecimento Facial | Sistema para identificar alunos em sala de aula (Python + MongoDB + MQTT) |
-| Plataforma P2P de Aluguel | Plataforma de aluguel entre usuários (React + Node.js + PostgreSQL) |
+| Rastreio Facial | Sistema de rastreio facial utilizando 68landmarks |
 | Eye Tracking System | Sistema de rastreamento ocular com IA (Python + Dlib + PyTorch) |
 
 ---
