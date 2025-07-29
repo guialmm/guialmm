@@ -50,5 +50,4 @@
 
 - **Deep Learning e Redes Neurais**  
 - **Sistemas Distribuídos**  
-- **Projetos Fullstack com React + Node.js**  
-- **Integração de IA em dispositivos embarcados**
+- **Integração de IA com acessibilidade no dia a dia**
