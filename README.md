@@ -20,10 +20,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=guialmm&theme=radical&no-frame=true&margin-w=10&row=1&column=4" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guialmm&theme=radical&no-frame=true&row=1&column=6" height="100"/>
+</p>
 
 ---
 
