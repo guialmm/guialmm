@@ -17,12 +17,30 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guialmm&theme=radical"
-    height="150"
-/>
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guialmm&theme=radical"
+          height="150"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guialmm&theme=radical"
+          height="150"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 
 
