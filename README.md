@@ -17,14 +17,13 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guialmm&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guialmm&theme=radical"
     height="150"
 />
 </div>
+
 
 
 ## 💡 Projetos em Destaque
