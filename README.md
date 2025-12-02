@@ -19,8 +19,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
   <table>
     <tr>
