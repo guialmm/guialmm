@@ -20,10 +20,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialmm&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guialmm&theme=radical"
+    height="150"
+/>
 </div>
 
----
 
 ## 💡 Projetos em Destaque
 
