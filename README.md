@@ -50,7 +50,7 @@
 - 🤖 **[Rastreio Facial](https://github.com/guialmm/FacialLandmark)**  
   Sistema de rastreio facial utilizando 68 landmarks
 
-- 👁 **Eye Tracking System**  
+- 👁 **[Eye Tracking System](https://github.com/guialmm/ic-eyetracking)**  
   Sistema de rastreamento ocular com IA (Python + Dlib + PyTorch)
 
 ---
