@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Almeida!
+# Olá, eu sou o Guilherme Almeida!
 
 ![Profile views](https://komarev.com/ghpvc/?username=guialmm&color=0e75b6&style=flat)
 ![Status](https://img.shields.io/badge/Status-Ativo-success?style=flat-square)
@@ -7,17 +7,13 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-🎓 Estudante de **Engenharia de Software no INATEL**  
-💻 Atuo em projetos de **Inteligência Artificial, Visão Computacional e Desenvolvimento Backend**  
-⚡ Interesse especial em **Python, Java e IA**  
-🌱 Sempre em busca de **novas tecnologias** para expandir minhas habilidades  
-📈 Atualmente desenvolvendo projetos que unem **IA e Machine Learning**  
+Estudante de **Engenharia de Software no INATEL**, atuando em projetos de **Inteligência Artificial, Visão Computacional e Desenvolvimento Backend**. Interesse especial em **Python, Java e IA**, sempre em busca de novas tecnologias para expandir minhas habilidades. Atualmente desenvolvendo projetos que unem **IA e Machine Learning**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <table>
@@ -38,33 +34,24 @@
   </table>
 </div>
 
+## Projetos em Destaque
 
+- **[Pomoflow](https://github.com/guialmm/pomoflow)**
+  Timer Pomodoro disponível como CLI em Python e web app (PWA) — React, TypeScript, Vite e Tailwind CSS, com histórico de sessões e estatísticas.
 
+- **[Eye Tracking System](https://github.com/guialmm/ic-eyetracking)**
+  Sistema de rastreamento ocular com IA (Python + Dlib + PyTorch).
 
+- **[DrowsyGuard](https://github.com/guialmm/DrowsyGuard)**
+  Sistema de detecção de sonolência em tempo real para motoristas (Python + MediaPipe + OpenCV).
 
-## 💡 Projetos em Destaque
-
-- 🚀 **[Virtual Calculator](https://github.com/guialmm/VirtualCalculator)**  
-  Calculadora touchless com visão computacional (Python + OpenCV + Mediapipe)
-
-- 🤖 **[Rastreio Facial](https://github.com/guialmm/FacialLandmark)**  
-  Sistema de rastreio facial utilizando 68 landmarks
-
-- 👁 **[Eye Tracking System](https://github.com/guialmm/ic-eyetracking)**  
-  Sistema de rastreamento ocular com IA (Python + Dlib + PyTorch)
+- **[TaskFlow](https://github.com/guialmm/taskflow)**
+  Aplicação full-stack de gerenciamento de projetos com quadro Kanban — FastAPI, PostgreSQL, React 18, TypeScript e TailwindCSS.
 
 ---
 
-## 📫 Conecte-se Comigo
+## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-almeida2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guialm1)
 [![GitHub](https://img.shields.io/badge/GitHub-guialmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guialmm)
-
----
-
-## 🌱 Em Desenvolvimento
-
-- **Deep Learning e Redes Neurais**  
-- **Sistemas Distribuídos**  
-- **Integração de IA com acessibilidade no dia a dia**
