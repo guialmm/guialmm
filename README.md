@@ -1,57 +1,59 @@
-# Olá, eu sou o Guilherme Almeida!
+## Guilherme Almeida
 
-![Profile views](https://komarev.com/ghpvc/?username=guialmm&color=0e75b6&style=flat)
-![Status](https://img.shields.io/badge/Status-Ativo-success?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-IA%20%7C%20Machine%20Learning-blueviolet?style=flat-square)
-![Code](https://img.shields.io/badge/Code-Python%20%7C%20Java%20%7C%20C++-informational?style=flat-square)
+Estudo Engenharia de Software no INATEL, em Santa Rita do Sapucaí (MG), e trabalho com back-end.
+Escrevo quase tudo em Python e, desde o último projeto, também em Java.
 
----
+Fui estagiário na Huawei e passei um ano na iniciação científica do INATEL, construindo um sistema
+que move o mouse pelo olhar para pessoas com ELA. O trabalho virou artigo no INCITEL 2026.
+Hoje procuro estágio ou vaga júnior em desenvolvimento.
 
-## Sobre Mim
+### Projetos
 
-Estudante de **Engenharia de Software no INATEL**, atuando em projetos de **Inteligência Artificial, Visão Computacional e Desenvolvimento Backend**. Interesse especial em **Python, Java e IA**, sempre em busca de novas tecnologias para expandir minhas habilidades. Atualmente desenvolvendo projetos que unem **IA e Machine Learning**.
+Os que têm link estão no ar e dá para usar.
 
----
+**[Carteira](https://github.com/guialmm/carteira)** · [API no ar](https://3-128-146-167.sslip.io/docs)<br>
+API de carteira digital com Pix por chave, extrato e notificações. O saldo sai de um livro-razão de
+partidas dobradas, e 200 transferências simultâneas contra o mesmo saldo nunca o deixam negativo.
+Roda na AWS, com a infraestrutura em Terraform.<br>
+<sub>Java 25 · Spring Boot · PostgreSQL · RabbitMQ · Testcontainers · AWS · Terraform</sub>
 
-## Estatísticas do GitHub
+**[Navalha](https://github.com/guialmm/navalha)** · [ligar para a recepção](https://navalha1.vercel.app)<br>
+Recepcionista por voz de uma barbearia: você liga pelo navegador e ela marca, remarca e cancela
+horários conversando. Quem impede dois clientes no mesmo horário é o Postgres, não o prompt.<br>
+<sub>Python · LiveKit · Gemini Live · FastAPI · PostgreSQL · Next.js</sub>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guialmm&theme=radical"
-          height="150"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guialmm&theme=radical"
-          height="150"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+**[Sonar](https://github.com/guialmm/sonar)** · [mandar um currículo](https://sonar-vagas.vercel.app)<br>
+Junta mais de 7 mil vagas abertas de 8 fontes e mostra onde o seu currículo encaixa. Cada motivo
+cita um trecho da vaga e um do currículo, conferidos no texto original, e vagas com cara de
+fantasma ficam de fora.<br>
+<sub>Python · FastAPI · PostgreSQL com pgvector · Gemini · Next.js</sub>
 
-## Projetos em Destaque
+**[Vitrine](https://github.com/guialmm/vitrine)** · [loja de demonstração](https://vitrine-phi-nine.vercel.app)<br>
+E-commerce com pagamento pelo Stripe, estoque reservado no checkout e login com refresh token
+rotativo. Os testes de ponta a ponta fazem uma compra inteira a cada push.<br>
+<sub>Python · FastAPI · PostgreSQL · Redis · React · TypeScript · Stripe</sub>
 
-- **[Pomoflow](https://github.com/guialmm/pomoflow)**
-  Timer Pomodoro disponível como CLI em Python e web app (PWA) — React, TypeScript, Vite e Tailwind CSS, com histórico de sessões e estatísticas.
+**[Sexto Homem](https://github.com/guialmm/sexto-homem)** · [assinar](https://sextohomem.vercel.app)<br>
+Newsletter diária da NBA em português. Sai todo dia às 7h sem servidor ligado: o n8n sobe dentro do
+GitHub Actions, faz a edição e é descartado. Placar, lesão e link vêm das fontes; a IA só escreve.<br>
+<sub>n8n · JavaScript · Gemini · PostgreSQL · Next.js</sub>
 
-- **[Eye Tracking System](https://github.com/guialmm/ic-eyetracking)**
-  Sistema de rastreamento ocular com IA (Python + Dlib + PyTorch).
+**[EyeGuideAI](https://github.com/guialmm/ic-eyetracking)**<br>
+O projeto da iniciação científica: controle do mouse pelo olhar com uma webcam comum e uma rede
+treinada com 2.300 imagens.<br>
+<sub>Python · OpenCV · TensorFlow</sub>
 
-- **[DrowsyGuard](https://github.com/guialmm/DrowsyGuard)**
-  Sistema de detecção de sonolência em tempo real para motoristas (Python + MediaPipe + OpenCV).
+Mais antigos: [DrowsyGuard](https://github.com/guialmm/DrowsyGuard) (sonolência ao volante com
+MediaPipe), [análise do e-commerce Olist](https://github.com/guialmm/olist-ecommerce-analytics),
+[detecção de discurso de ódio com BERTimbau](https://github.com/guialmm/hatebr-nlp),
+[TaskFlow](https://github.com/guialmm/taskflow) e [Pomoflow](https://github.com/guialmm/pomoflow).
 
-- **[TaskFlow](https://github.com/guialmm/taskflow)**
-  Aplicação full-stack de gerenciamento de projetos com quadro Kanban — FastAPI, PostgreSQL, React 18, TypeScript e TailwindCSS.
+### Com o que trabalho
 
----
+Python (FastAPI, Django, SQLAlchemy, pytest) e Java (Spring Boot, JUnit). PostgreSQL, Redis e
+RabbitMQ. Docker, GitHub Actions, AWS e Terraform. No front, React, Next.js e TypeScript. Em IA,
+LLMs com chamadas de ferramenta, avaliação automática de respostas e visão computacional.
 
-## Conecte-se Comigo
+### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-almeida2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guialm1)
-[![GitHub](https://img.shields.io/badge/GitHub-guialmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guialmm)
+[LinkedIn](https://www.linkedin.com/in/guilherme-almeida2/)
