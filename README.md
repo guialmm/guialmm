@@ -1,7 +1,6 @@
 ## Guilherme Almeida
 
 Estudo Engenharia de Software no INATEL, em Santa Rita do Sapucaí (MG), e trabalho com back-end.
-Escrevo quase tudo em Python e, desde o último projeto, também em Java.
 
 Fui estagiário na Huawei e passei um ano na iniciação científica do INATEL, construindo um sistema
 que move o mouse pelo olhar para pessoas com ELA. O trabalho virou artigo no INCITEL 2026.
